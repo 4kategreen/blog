@@ -3,17 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: The Kate Green
+subtitle: Codes, Learns, Trains, Educates, Speaks, Competes, Lives
+description: 
+keywords: "Codes, Learns, Trains, Educates, Speaks, Competes, Lives"
+author: Kate Green
+language: English
+timezone: America/New_York
+about :
+  name : "Kate Green",
+  linkedin : "https://in.linkedin.com/in/4kategreen",
+  twitter : "https://twitter.com/4kategreen",
+  email : "kate@kategreen.codes",
+  github : "https://github.com/4kategreen"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://kategreen.codes
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -29,7 +35,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :title.md
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -39,10 +45,14 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace:
+prism_plugin:
+  mode: 'preprocess'    # realtime/preprocess
+  theme: 'default'
+  line_number: false    # default false
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -73,7 +83,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: clexy
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
