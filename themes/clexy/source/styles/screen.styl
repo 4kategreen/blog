@@ -109,7 +109,6 @@ body
   line-height 1.6em
 a
   color $body-link-color
-  text-decoration none
   &:hover
     transition color .3s ease
 
@@ -143,9 +142,6 @@ header
   // Link styling
   a
     color $header-link-color
-    text-decoration none
-    &:hover
-      text-decoration underline
   // Blog title
   h1
     color $title-color
@@ -154,8 +150,6 @@ header
     font-weight $title-weight
     letter-spacing -1px
     text-shadow 0 1px 6px hsla(0, 0, 0, .5)
-    a:hover
-      text-decoration none
   // Blog description
   p
     color $description-color
@@ -292,16 +286,14 @@ main
     padding-bottom 20px
     span.page-tag-anchor
       float right
+      a
+        text-decoration none
     h1.post-heading
       text-align center
       margin auto
     h2
       margin 0
-    ul
-      list-style none
-      padding 0
     a
-      text-decoration none
       &:hover
         color $body-link-hover-color
     p + img
@@ -376,10 +368,8 @@ main
     padding-top 20px
   // Footer
   footer
-    padding 0
-    text-align center
     position relative
-    padding 4rem 0
+    padding 2rem 1rem
     border darken($background-color, 15%) 1px solid
     font-size 1.3rem
     line-height 2.1em
@@ -388,7 +378,6 @@ main
     :not(main) > a
       color lighten($body-color, 20%)
       font-weight 700
-      text-decoration none
   .avatar
     margin auto
     width 150px
@@ -471,7 +460,6 @@ h6
 
 a
   transition color ease .3s
-  text-decoration none
   &:hover
     color $link-article-color
 
