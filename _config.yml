@@ -5,17 +5,17 @@
 # Site
 title: Kate Green
 subtitle: 
-description: code, leadership, learning, dogs, fun
-keywords: "Codes, Learns, Trains, Educates, Speaks, Competes, Lives"
+description: code, leadership, learning, dogs, babies
+keywords:
 author: Kate Green
 language: English
 timezone: America/New_York
 about:
-  name : "Kate Green"
-  linkedin : "https://in.linkedin.com/in/4kategreen"
-  twitter : "https://twitter.com/4kategreen"
-  email : "kate@kategreen.codes"
-  github : "https://github.com/4kategreen"
+  name: "Kate Green"
+  linkedin: "https://in.linkedin.com/in/4kategreen"
+  twitter: "https://twitter.com/4kategreen"
+  email: "kate@kategreen.codes"
+  github: "https://github.com/4kategreen"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
