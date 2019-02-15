@@ -42,18 +42,13 @@ if is_archive() || (is_page() && page.title.toLowerCase() == 'articles')
           //-time(itemprop='datePublished', datetime= post.date.toISOString())= full_date(new Date(post.date), ' MMMM Do')
     if site.posts.toArray().length != 0
       | </ul>
-else if is_page() && page.title.toLowerCase() == 'author'
+else if is_page() && page.title.toLowerCase() == 'about'
   article.full
-    h1(itemprop='headline')= page.title
+    != page.content
     .avatar
     if(config.about !== undefined)
       .avatar-name
         | #{config.about.name}
-      .avatar-description
-        | #{config.about.intro1}
-      if (config.about.intro2 != undefined)
-        .avatar-description
-          | #{config.about.intro2}
       script(src="//use.fontawesome.com/d58379a62c.js")
       br
       .social-container

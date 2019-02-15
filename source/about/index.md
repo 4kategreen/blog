@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 date: 2019-02-12 21:42:39
 ---
 
