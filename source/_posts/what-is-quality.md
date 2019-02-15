@@ -23,7 +23,7 @@ What does quality mean to all the stakeholders of an application? Let's work fro
 
 ### Quality for the People who Work On It
 At this level, we're looking for an easy-to-maintain application. We want:
-* comprehensive testing at the unit and integration levels so we can fix bugs quickly. We can get into it about code coverage and mocking another day, but this is very important to getting a bug fixed and deployed when the bug breaks, during business hours or not.
+* comprehensive testing at the unit and integration levels so we can fix bugs quickly. We can get into it about {% post_link Should-Code-Coverage-Ever-Be-100 code coverage %} and mocking another day, but this is very important to getting a bug fixed and deployed when the bug breaks, during business hours or not.
 * robust documentation
 * to be able to bring new people on with minimal trouble, so we need that documentation to include how to set up a development environment and also where to find things in the codebase. 
 * the app to be reliable, to stay up. If it goes down, we want to be able to fix it fast with a fast deployment process.
