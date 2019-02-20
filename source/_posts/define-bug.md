@@ -26,7 +26,8 @@ Here's where we become great as testers. Thinking about who the product's users 
 
 Things we care about here:
 * Standard behavior of similar products or applications
-* Would a user be confused by how this works?
+* Would a user be confused by how this works? Remember that different users have different experience levels and approaches, so try to imagine those perpsectives when you are working.
+* Easy-to-use forms. For instance, easy to tab through and use completion aids like date pickers and special fields like phone numbers and state dropdowns.
 
 ### *Look and Feel*
 This is about how it looks and what that look conveys to a user. Failing here will cause a user to seek out our product if there is a better option. This isn't as important as other aspects, but the bugs here are easy to find and the fixes are usually quick.
@@ -34,16 +35,6 @@ This is about how it looks and what that look conveys to a user. Failing here wi
 * Does the design match the implementation?
 * Also look for things that cause confusion with the fonts, colors, and layout.
 * Does how this look convey the message we want to to our users.
-
-### *Accessibility*
-Failing at basic accessibility standards means you're not only failing users with disabilities. The tools that make a product accessible make it more straightforward for everyone.
-
-Often, accessibility is looked down on becaue it's challenging, but there are many reasons to address it from the start of a product's development. If you are testing an application that needs accreditation or will be part of a(n American) government system, this will matter way more. The main things here are: straightforward structure so screen readers can navigate, sane color contrast for colorblind and low vision users, and forms that tab through easily for keyboard and screenreader users. Often these bugs show up as usability and look-and-feel, so I could make an argument that these three sections could be combined.
-
-* Color contrast
-* Screen reader usability
-* Simple layout
-* Easy-to-use forms
 
 ### *Security*
 Some people would say this isn't our concern, but if our concern is about our users, we need to worry about their security. This is generally hard to test, but it's worth it especially if you are testing a system that needs to be accredited. Setting up standard tests that can be reused will be especially helpful here.
