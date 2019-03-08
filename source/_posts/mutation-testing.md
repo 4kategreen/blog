@@ -1,5 +1,5 @@
 ---
-title: Mutation Testing: Are Your Tests Good Enough?
+title: Are Your Tests Good Enough? Using Mutation Testing to Test your Tests
 date: 2019-03-04 22:37:23
 tags:
 ---
@@ -50,15 +50,17 @@ My baseline for code coverage is generally about 80%, though there are people ou
 Let's say you unit test the parts that matter: the `add` and `isGoodNumber` methods. The code coverage metrics would be lower than 80% purely based on line numbers, but I would say that's good enough. However, it's always in the back of my mind that I am missing something. 
 
 Enter mutation tests. Some of the mutants you'll see for `isGoodNumber()` are:
-```isGoodNumber(x) {
-		let good = false;
+```
+isGoodNumber(x) {
+	let good = false;
 
-		if ([*true*|*false*]) {
-			good = Number.isInteger(x);
-		}
+	if ([*true*|*false*]) {
+		good = Number.isInteger(x);
+	}
 
-		return [*true*|*false*|'random string'];
-	}```
+	return [*true*|*false*|'random string'];
+}
+```
 
 ### Is my code only good enough if all the mutants are killed off?
 
