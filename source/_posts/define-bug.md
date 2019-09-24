@@ -1,7 +1,7 @@
 ---
 title: What is a Bug?
 date: 2019-02-19 20:47:20
-tags:
+tags: [ 'quality', 'code' ]
 ---
 A bug is anything that would make a user think less of your product. It's the simple. You can split hairs from there, but that's the baseline. In this post, we'll talk about what a bug is and how you should approach finding and reporting them. 
 
