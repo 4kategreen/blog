@@ -1,7 +1,9 @@
 ---
 title: What is Quality in Software?
 date: 2019-02-13 22:26:50
-tags: ['code', 'quality']
+tags: 
+	- code
+	- quality
 ---
 Quality is something we talk about all the time. We want our work to be good, to make money, to help others, to be awesome and admired. The word quality comes up, especially while planning our work. In the end, we say we don't test enough, we have to do hotfixes, the app breaks in ways we didn't imagine.
 

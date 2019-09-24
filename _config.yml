@@ -10,13 +10,6 @@ keywords:
 author: Kate Green
 language: English
 timezone: America/New_York
-about: {
-  name: "Kate and her cattle dog and sidekick Reba",
-  linkedin: "https://in.linkedin.com/in/4kategreen",
-  twitter: "https://twitter.com/4kategreen",
-  email: "kate@kategreen.us",
-  github: "https://github.com/4kategreen",
-}
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -50,10 +43,6 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-prism_plugin:
-  mode: 'preprocess'    # realtime/preprocess
-  theme: 'default'
-  line_number: false    # default false
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -84,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clexy
+theme: minos
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
