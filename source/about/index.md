@@ -4,8 +4,44 @@ date: 2019-02-12 21:42:39
 ---
 
 # I am Kate Green.
-## I code. And a lot of other things. 
+## Creative problem solver. Leader of engaged teams.
 
-I'm a software engineering leader who specializes in designing and implementing test automation. I love making quality software that solves real problems. I love working with other engineers to raise the quality of the products, from the code on out. However, I'm flexible enough to know when something is good enough. I love to teach and speak at conferences when I have the time.
+I'm so many things and that's part of what makes me a great leader.
 
-In other parts of my life, I parent, train and compete with my dogs, entertain and boss around two little boys, work out, garden, and occasionally sleep.
+### Alchemist
+Really? Yes. I can find connections between any two disciplines. 
+* Dog training and testing software? Check.
+* Gardening and commuting? Sure!
+* Music and bravery? Most definitely.
+* Leading teams and parenting? Of course. (Shhhh. Don't tell!)
+
+Mastery comes from understanding a skill and then synthesizing that skill into what you already know. I tend to see connections where others don't and it allows me to draw upon my full range of expertise.
+
+### Educator
+My core ethos is improvement. I am better this week than I was last week, and that will always be the case. I like to get good at skills and I like to help others get better, too. Building others up and watching them thrive is a huge part of my raison d'etre. In my life, there's been many things I am very good at throughout my life:
+
+* Musician
+* Baseball & Softball
+* Software Engineering
+* Gardening
+* Hockey
+* Distance Running
+* Dog agility and training overall
+* Parenting
+* Movement, after an emergency back surgery and long recovery
+
+I teach others, I speak, I ask entirely too many questions. I will push anyone around me to be their best, with a combination of passion, laughter, questions, and high expectations.
+
+### Anti-racist and feminist
+My breadth of knowledge shows the importance of a diversity of thought and understanding in becoming a complete person. I take that mindset and apply it to those I choose to spend time with. 
+
+I am a feminist, I am anti-racist. I want everyone to have opportunities to be great. I firmly believe that what is good for the most marginalized of us is good for everyone. Thus, I seek to build up everyone around me so they have a chance to become their very best. 
+
+### Software Engineering
+I've been writing code for over 20 years. It's a great job that has allowed me to think in such novel ways. I started as a web designer in 1998, took C in college, and spent many years honing my skills while working all over the Naval Research Lab in Washington, DC. I've secured machines, built database applications, done print and web graphic design, and maintained large applications. 
+
+From there, I moved to the Chronicle of Higher Education and the Chronicle of Philanthropy, where I learned to love devops and led front end web development for both newspapers (off the same codebase). 
+
+After that, I took my newfound devops love and moved into automation and testing, where I created larger build pipelines and created robots, dashboards, and whatever else was needed to test our product. Along the way, I learned to look for the big picture and to question the nature of testing. 
+
+At Upside, I lead an automation and tooling team. We build the robots, we create developer-centric products for the engineers to use, and we build and write automated tests. My role is a hybrid of team lead, architect, and product manager. I love it. More than coding. I still like to code, but watching others get better is so much more awesome. 
