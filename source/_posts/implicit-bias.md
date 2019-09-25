@@ -14,7 +14,7 @@ Implicit bias is the bias you didn't know you have. It's:
 It's this stereotyping that humans used to judge danger in far less certain times. It was, and can still be, a useful tool to assess situations quickly. In times where there is no danger, thought, implicit bias can cause trouble for you and those around you. 
 
 We all have biases like this. No matter how hard you try, they will always be in your head. The only way to fight is to understand your own biases and assumptions and work to counteract them. 
-
+<!-- more -->
 The longer I research diversity and inclusivity, the more I keep coming back to implicit bias and the work we all need to be doing to fight it, moment by moment.
 
 ## Implicit Association Test

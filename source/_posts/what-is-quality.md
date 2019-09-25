@@ -13,7 +13,7 @@ degree of excellence, superiority of kind
 {% endblockquote %}
 
 Obviously, a quality product goes way beyond just software. We apply similar standards to every item we use, every piece of art or music we consume, and even the people around us. Quality is something we all know when we see it but find it hard to explicitly define. As it relates to software directly, it:
-
+<!-- more -->
 1. works correctly, adheres to business requirements
 1. works correctly, it's usable
 1. is resilient

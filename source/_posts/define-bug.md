@@ -14,7 +14,7 @@ With that in mind, these are the ways I sort out bugs.
 Functionality bugs fail a user because we're violating the stated goals of our product.
 
 This is the baseline for bugs for an average tester. Any one who tests software should be ready to ask questions about requirements and be ready the moment a new feature is available to test with both standard and tricky use cases.
-
+<!-- more -->
 * Does the feature work like the requirements in the ticket/story/bug/whatever? I'm assuming that the ticket is thorough enough and that the tester has the information needed and authority to make decisions about what and how to test. That's another post entirely, though.
 * Does the rest of the application work with the new feature as expected?
 * Regressions? Random behaviors as a side effect of this work?
