@@ -584,9 +584,10 @@ figure.highlight {
     display: inline-block;
     overflow: hidden;
     margin: 0;
-    padding: 0;
+    padding: 2px;
     line-height: 0;
     max-width: 100%;
+    float: right;
 
     &:hover {
         .caption {
@@ -610,6 +611,7 @@ figure.highlight {
         font-family: inherit !important;
         line-height: 1.5;
     }
+
 }
 
 .video-container {
