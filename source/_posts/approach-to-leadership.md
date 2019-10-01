@@ -1,6 +1,6 @@
 ---
 title: My Leadership Approach
-date: 2019-10-01 10:22:33
+date: 2019-09-30 20:22:33
 tags:
 	- leadership
 	- growth
@@ -13,7 +13,7 @@ Leadership is the ability to help a group of people advance from the place they 
 The first thing you need to know about my approach to leadership is a little context. 
 
 Here are some crucial bits to apply to what I'm about to tell you:
-1. I grew up in a house where rules were arbitrary and inconsistently applied. Thus, I strive to make things consistent and orderly for myself.
+1. I have been working in technology, in many aspects, but mostly as a software engineer or software engineering manager for over 20 years
 1. I have a degree in education. I wanted to be a teacher since middle school after watching, and being inspired by, great teachers. 
 1. _Despite_ having a degree in elementary education, I decided not to teach because of how curriculum and evaluation was carried out at a mass scale in US public education. 
 1. I was in college studying elementary education when No Child Left Behind, a test-focused education platform, was unveiled. I fought against its existence.
@@ -31,7 +31,7 @@ We all walking into my room on some clear, bright September day full of optimism
 
 ## Where is Here?
 
-Let's stop here and consider what I mean by _where they were_ when they came into my classroom. Human learning isn't like feeding information to a computer. Facts go in your head, sometimes leaving as quickly as they come in. Sometimes it stays forever (ask my why I still know the landlord of the place we lived when I was 5, please). But, the set of skills that _allow_ you to learn and interact with the world successfully, those tend to persist and can be applied on any material you need to learn. Let's apply this to a common scenario in elementary school:
+Let's stop here and consider what I mean by _where they were_ when they came into my classroom. Human learning isn't like feeding information to a computer. Facts go in your head, sometimes leaving as quickly as they come in. Sometimes it stays forever (how do I still know our landlord's of the place we lived when I was 5). But, the set of skills that _allow_ you to learn and interact with the world successfully, those tend to persist and can be applied on any material you need to learn. Let's apply this to a common scenario in elementary school:
 
 I learned my multiplication tables in second grade. The first skill here is understanding how whole numbers work and why. When I had enough number sense to understand addition and how multiplication was based on that, Mrs. Potter let me work on my multiplication tables. From there, learning my multiplication tables themselves was memorization. It's a skill that isn't much fun, but it's important.
 
