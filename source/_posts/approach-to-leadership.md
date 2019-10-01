@@ -6,6 +6,10 @@ tags:
 	- growth
 ---
 
+{% blockquote %}
+Leadership is the ability to help a group of people advance from the place they are today as far as they are willing and able to grow to.
+{% endblockquote %}
+
 The first thing you need to know about my approach to leadership is a little context. 
 
 Here are some crucial bits to apply to what I'm about to tell you:
@@ -14,6 +18,7 @@ Here are some crucial bits to apply to what I'm about to tell you:
 1. _Despite_ having a degree in elementary education, I decided not to teach because of how curriculum and evaluation was carried out at a mass scale in US public education. 
 1. I was in college studying elementary education when No Child Left Behind, a test-focused education platform, was unveiled. I fought against its existence.
 1. My ethos is personal development. I care, first and foremost, about growth. Of myself and of those around me. 
+<!-- more -->
 
 ## My Approach
 My approach to leadership got its start in the classroom. Shortly after college, I had a class of fourth graders, which is my favorite age. My group was: 
