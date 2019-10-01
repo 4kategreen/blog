@@ -7,7 +7,7 @@ tags:
 ---
 
 {% blockquote %}
-Leadership is the ability to help a group of people advance from the place they are today as far as they are willing and able to grow to.
+Leadership is the ability to help a group of people advance from the place they are today as much as they are willing and able to grow.
 {% endblockquote %}
 
 The first thing you need to know about my approach to leadership is a little context. 
