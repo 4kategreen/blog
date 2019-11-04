@@ -59,6 +59,9 @@ navbar_links:
   GitHub:
     icon: fab fa-github
     url: https://github.com/4kategreen
+  Twitter:
+    icon: fab fa-twitter
+    url: https://twitter.com/4kategreen
   Linkedin:
     icon: fab fa-linkedin
     url: https://in.linkedin.com/in/4kategreen
