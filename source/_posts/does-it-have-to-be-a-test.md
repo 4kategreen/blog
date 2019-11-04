@@ -11,6 +11,7 @@ tags:
 I hear statements like this a lot when people come to me wanting to test something. Often it turns out that the problem and the solution are different from what my colleague thinks it is. My goal, as my team's lead, is to solve the problem in the most efficient way possible. My team is small and the requests for our time are numerous. I'm always trying to find ways to solve testing problems without building automation projects.
 
 Here's how I do that.
+<!-- more -->
 
 ## What's the Real Problem?
 First things first, what is the real problem I'm looking to solve here? Most of us are pretty myopic about what we're trying to do. We want to make things easier for ourselves, solve a problem in a way that we already know the answer to, or solve problems that are important to us. That means that while the problem at hand may be valid, we may be only looking at the problem in a limited way.
@@ -48,3 +49,5 @@ I try to avoid building a large automation project if I think there are quicker,
 Thinking about ways to make sure things are good enough before a project goes to production, using process and unit and integration testing, is crucial. Then, getting monitoring and tracing gives us realtime information about code once it goes into production. There are other solutions out there, limited only by creativity and the problem that needs to be solved. 
 
 My best advice is to seek the cheapest solution, both in time and effort. All the better if it's not something you or your team has to maintain going forward.
+
+In a forthcoming post, I'll talk about my process for planning and building automation.
