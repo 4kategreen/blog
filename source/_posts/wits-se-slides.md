@@ -1,5 +1,5 @@
 ---
-title: Presentation Slides: Take your Test Strategy to the Next Level
+title: Take your Test Strategy to the Next Level (Presentation Slides)
 date: 2019-11-08 12:00:00
 tags:
 	- quality
@@ -9,6 +9,7 @@ tags:
 
 At the Women in Tech Summit Southeast in Raleigh, I talked about my approach of developing effective, reliable, efficient tests. Basically, test smarter not harder. 
 
+<!-- more -->
 Here's the overview:
 {% img /images/test-strategy-slides/test-strategy-slides-2.jpg  "Overview" %}
 
