@@ -1,9 +1,9 @@
 ---
 title: My Leadership Approach
 date: 2019-09-30 20:22:33
-tags:
-	- leadership
-	- growth
+categories:
+- Leadership
+- Growth Mindset
 ---
 
 {% blockquote %}

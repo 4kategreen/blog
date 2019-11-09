@@ -1,9 +1,8 @@
 ---
 title: Does It Have To Be a Test?
 date: 2019-10-30 16:26:21
-tags:
-	- quality
-	- test design
+categories:
+- Quality
 ---
 
 "I have an idea to test this." "Something is wrong here. We need to test it." "How can we test this so nothing goes wrong?"

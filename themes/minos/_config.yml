@@ -21,8 +21,7 @@ article:
 # Navigation bar menu links.
 menu:
   About: /about
-  # Code: /categories/code
-  # Life: /categories/life
+  Categories: /categories
   Archives: /archives
 
 # Search plugin settings.
@@ -69,4 +68,5 @@ navbar_links:
 # Links at the bottom of the page.
 footer_links:
   GitHub: https://github.com/4kategreen
+  Twitter: https://twitter.com/4kategreen
   Linkedin: https://in.linkedin.com/in/4kategreen
