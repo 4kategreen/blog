@@ -7,7 +7,7 @@ tags:
 	- presentation
 ---
 
-At the Women in Tech Summit Southeast in Raleigh, I talked about my approach of developing effective, reliable, efficient tests. Basically, test smarter not harder. 
+At the [Women in Tech Summit](https://womenintechsummit.net/) Southeast in Raleigh, I talked about my approach of developing effective, reliable, efficient tests. Basically, test smarter not harder. 
 
 <!-- more -->
 Here's the overview:
