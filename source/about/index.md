@@ -31,7 +31,7 @@ My core ethos is improvement. I am better this week than I was last week, and th
 * Parenting
 * Movement, after an emergency back surgery and long recovery
 
-I teach others, I speak, I ask entirely too many questions. I will push anyone around me to be their best, with a combination of passion, laughter, questions, and high expectations.
+I teach others, I speak at conferences, I ask entirely too many questions. I will push anyone around me to be their best, with a combination of passion, laughter, questions, and high expectations.
 
 ### Anti-racist and feminist
 My breadth of knowledge shows the importance of a diversity of thought and understanding in becoming a complete person. I take that mindset and apply it to those I choose to spend time with. 
@@ -45,13 +45,15 @@ From there, I moved to the Chronicle of Higher Education and the Chronicle of Ph
 
 After that, I took my newfound devops love and moved into automation and testing, where I created larger build pipelines and created robots, dashboards, and whatever else was needed to test our product. Along the way, I learned to look for the big picture and to question the nature of testing. 
 
-At Upside, I lead an automation and tooling team. We build the robots, we create developer-centric products for the engineers to use, and we build and write automated tests. My role is a hybrid of team lead, architect, and product manager. I love it. More than coding. I still like to code, but watching others get better is so much more awesome.
+At Upside, I led an automation and tooling team. We built the robots, we created developer-centric products for the product engineers to use, and we built and write automated tests. My role was a hybrid of team lead, architect, and product manager. I'm proud of what we implemented and the team I led.
+
+I'm currently leading a product engineering team at Till, where we're working to end eviction. It's fun to get back onto the product side of engineering.
 
 ### Competitor
 {% img /images/celebrate.jpg 200 "Happy Reba" %}
 No matter what it is, I want to compete. Competing makes me better. There's always been something. Baseball, softball, music, hockey, puzzles, running, dog agility.
 
-Here's my dog, Reba, and I celebrating after we ran an agility course.
+Here's my dog, Reba, and I celebrating after we ran an agility course. She's an agility trial champion, a lifetime achievement for us as a team. 
 
 ### About this Blog
 I use the blogging platform [Hexo](http://hexo.io/) with the theme [Minos](http://github.com/ppoffice/hexo-theme-minos). I've modified the theme a little here and there, but it's mostly intact. It's one of the most well-supported themes with good documentation. #quality!
