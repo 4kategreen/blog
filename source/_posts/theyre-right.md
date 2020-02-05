@@ -1,9 +1,10 @@
 ---
 title: Tell Them When They're Right
 date: 2020-02-04 20:36:42
-categories:
-- Screed
-- Stories
+tags:
+- stories
+- relationships
+- leadership
 ---
 I don't care who or what you're working with, if they're sentient, they all want to:
 * be right

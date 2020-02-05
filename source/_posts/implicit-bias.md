@@ -1,8 +1,10 @@
 ---
 title: Implicit Bias
 date: 2019-09-23 23:13:19
-categories:
-- Diversity
+tags:
+- leadership
+- inclusion
+- diversity
 ---
 
 Implicit bias is the bias you didn't know you have. It's:
