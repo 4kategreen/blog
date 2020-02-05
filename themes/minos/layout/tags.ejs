@@ -1,18 +1,18 @@
 <section class="section section-heading">
     <div class="container">
         <div class="content">
-            <h5>#<%= __('common.tags') %></h5>
+            <h5><i class="far fa-folder"></i><%= __('common.tags') %></h5>
         </div>
     </div>
 </section>
 <section class="section">
     <div class="container">
-        <div class="columns is-variable is-1 is-multiline is-mobile">
-            <% (page._tags || page.tags).forEach(tag => {%>
-            <span class="column is-narrow">
-                <a class="tag is-light article-tag" href="<%= url_for(tag.path) %>">#<%= tag.name %>&nbsp;(<%= tag.posts.length%>)</a>
-            </span>
+        <div class="columns is-variable is-1 is-multiline is-mobile content">
+            <ul>
+            <% page.tags.filter(tag => tag.length>0).forEach(tag => {%>
+                <li><a class="is-light article-tag" href="<%= url_for(tag.path) %>"><%= tag.name %>&nbsp;(<%= tag.posts.length%>)</a></li>
             <% }) %>
+            </ul>
         </div>
     </div>
 </section>

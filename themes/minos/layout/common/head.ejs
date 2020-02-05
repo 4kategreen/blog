@@ -47,7 +47,7 @@ if (languages.length > 1) {
 <% } %>
 
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ovo|Source+Code+Pro">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css">
+<%- css('css/bulma') %>
 
 <% if (!(has_config('plugins.gallery') && get_config('plugins.gallery') === false)) { %>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.8/css/lightgallery.min.css">

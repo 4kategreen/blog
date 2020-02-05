@@ -26,6 +26,13 @@
         </span>
         <% } %>
     </div>
+    <% if (!index && post.tags && post.tags.length){ %>
+    <div class="columns is-variable is-1 is-multiline is-mobile">
+    <% (post._tags || post.tags).forEach(tag => { %>
+        <span class="column is-narrow"><a class="tag is-light article-tag" href="<%- url_for(tag.path) %>">#<%= tag.name %></a></span>
+    <% }) %>
+    </div>
+    <% } %>
     <div class="article-entry is-size-6-mobile" itemprop="articleBody">
     <% if (post.excerpt && index){ %>
         <%- post.excerpt %>
@@ -36,13 +43,6 @@
         <%- post.content %>
     <% } %>
     </div>
-    <% if (!index && post.tags && post.tags.length){ %>
-    <div class="columns is-variable is-1 is-multiline is-mobile">
-    <% (post._tags || post.tags).forEach(tag => { %>
-        <span class="column is-narrow"><a class="tag is-light article-tag" href="<%- url_for(tag.path) %>">#<%= tag.name %></a></span>
-    <% }) %>
-    </div>
-    <% } %>
     <% if (!index && (post.prev || post.next)) { %>
     <div class="columns is-mobile is-multiline article-nav">
         <span class="column is-12-mobile is-half-desktop <%= !post.prev ? 'is-hidden-mobile' : '' %> article-nav-prev">
