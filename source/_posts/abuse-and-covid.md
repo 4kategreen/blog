@@ -10,7 +10,7 @@ As I write this, I’m entering my sixth week home with my family: a 2 and 4 yea
 
 It’s been up and down, joy and stress, caring and frustration. Mostly it’s been stable and steady. This got me thinking about how I’m feeling fine enough when others in similar situations are struggling.*
 
-<!—- more -—>
+<!-- more -->
 *caveat: those that are unemployed, sick, or otherwise affected directly by this madness are not in my mind at all in this statement. I’m thinking of others who are still gainfully employed and aren’t sick.
 
 *another caveat: I fully acknowledge how lucky I am in my current situation. BUT. We also make our luck, so read on.
