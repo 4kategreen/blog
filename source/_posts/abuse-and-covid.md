@@ -1,8 +1,8 @@
 ---
-title: Abuse and covid-19: how my childhood prepared me for a pandemi
+title: Abuse and Covid-19, or How my Childhood Prepared Me for a Pandemic
 date: 2020-04-18 21:00:00
 tags:
-- leadership
+- real life
 - growth mindset
 ---
 
