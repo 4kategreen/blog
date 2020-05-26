@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import Layout from '../../components/Layout';
 
 export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
-  if (!frontmatter) return <></>
+  if (!frontmatter) return <></>;
 
   return (
     <Layout pageTitle={`${siteTitle} | ${frontmatter.title}`}>
@@ -20,7 +20,7 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
       </article>
     </Layout>
   )
-}
+};
 
 export async function getStaticProps({ ...ctx }) {
   const { postname } = ctx.params;
@@ -35,5 +35,25 @@ export async function getStaticProps({ ...ctx }) {
       frontmatter: data.data,
       markdownBody: data.content
     }
+  }
+};
+
+export async function getStaticPaths() {
+  const blogSlugs = ((context) => {
+    const keys = context.keys();
+    const data = keys.map((key) => {
+      let slug = key.replace(/^.*[\\\/]/, '').slice(0, -3);
+
+      return slug;
+    });
+
+    return data;
+  })(require.context('../../posts', true, /\.md$/))
+
+  const paths = blogSlugs.map((slug) => `/post/${slug}`);
+
+  return {
+    paths,
+    fallback: false
   }
 }
