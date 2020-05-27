@@ -2,8 +2,8 @@
 title: Modifying Your Code for Unit Testing
 date: "2020-05-22"
 tags:
-	- quality
-	- test strategy
+- quality
+- test strategy
 ---
 
 If you’ve been looking around for information on unit testing and want to know a bit more, or possibly see an example of how to put it into practice, you’re in the right place.
