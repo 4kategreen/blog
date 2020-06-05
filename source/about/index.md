@@ -10,7 +10,7 @@ date: 2019-09-23 21:42:39
 I'm so many things and that's part of what makes me a great leader.
 
 ### Alchemist
-Really? Yes. I can find connections between any two disciplines. 
+Really? Yes. I can find connections and meld philosophies between any two disciplines. 
 * Dog training and testing software? Check.
 * Gardening and commuting? Sure!
 * Music and bravery? Most definitely.
@@ -38,7 +38,7 @@ My breadth of knowledge shows the importance of a diversity of thought and under
 
 I am a feminist, I am anti-racist. I want everyone to have opportunities to be great. I firmly believe that what is good for the most marginalized of us is good for everyone. Thus, I seek to build up everyone around me so they have a chance to become their very best. 
 
-### Software Engineering
+### Software Engineer
 I've been writing code for over 20 years. It's a great job that has allowed me to think in such novel ways. I started as a web designer in 1998, took C in college, and spent many years honing my skills while working all over the Naval Research Lab in Washington, DC. I've secured machines, built database applications, done print and web graphic design, and maintained large applications. 
 
 From there, I moved to the Chronicle of Higher Education and the Chronicle of Philanthropy, where I learned to love devops and led front end web development for both newspapers (off the same codebase). 
