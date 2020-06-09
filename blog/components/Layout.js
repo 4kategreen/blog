@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Header from './Header';
+import '../styles/styles.sass'
 
 export default function Layout({ children, pageTitle, ...props}) {
   return (

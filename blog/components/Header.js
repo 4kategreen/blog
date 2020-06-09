@@ -6,10 +6,16 @@ export default function Header() {
       <header className="header">
         <nav className="nav">
           <Link href="/">
-            <a>My Blog</a>
+            <a>img</a>
           </Link>
           <Link href="/about">
             <a>About</a>
+          </Link>
+          <Link href="/categories">
+            <a>Categories</a>
+          </Link>
+          <Link href="/archives">
+            <a>Archives</a>
           </Link>
         </nav>
       </header>
