@@ -1,5 +1,5 @@
 ---
-title: Implicit Bias
+title: Rethinking Unit Test Stategy
 date: 2020-06-05
 tags:
 - test strategy
