@@ -1,5 +1,5 @@
 ---
-title: Black Lives Matter: Finding my Voice to Affect Change
+title: Finding my Voice to Affect Change
 date: 2020-06-11
 tags:
 - leadership
@@ -7,7 +7,7 @@ tags:
 - diversity
 ---
 
-2020 has brought many life-changing events and here we sit with another one. The killing of George Floyd has sent us into a civil rights moment that I've never seen in my lifetime. I have hope that attitudes are changing among white people that may lead to the dismantling of structural racism. #BlackLivesMatter is mainstream and white people are speaking out in numbers I haven't seen, but there's still work to be done. 
+2020 has brought many life-changing events and here we sit with another one. George Floyd dying at the hands of police has sent us into a civil rights moment that I've never seen in my lifetime. I have hope that attitudes are changing among white people that may lead to the dismantling of structural racism. #BlackLivesMatter is mainstream and white people are speaking out in numbers I haven't seen, but there's still work to be done. 
 
 The intent of my post is to talk about the role I've found for myself and give ideas for other white people to continue the work we must do to eliminate systematic racism.
 
