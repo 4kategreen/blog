@@ -2,19 +2,19 @@ import Head from 'next/head';
 import Header from './Header';
 import '../styles/styles.sass'
 
-export default function Layout({ children, pageTitle, ...props}) {
+export default function Layout({ children, pageTitle, menuItems, ...props}) {
   return (
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>{pageTitle}</title>
       </Head>
-      <section className="container">
-        <Header />
-        <div className="content">{children}</div>
+      <section class="container">
+        <Header pageTitle="pageTitle" menuItems="menuItems" />
+        <div class="content">{children}</div>
       </section>
-      <footer>
-        <div class="container">footer things</div>
+      <footer class="container">
+        <div class="column">footer things</div>
       </footer>
     </>
   )

@@ -3,10 +3,10 @@ import matter from 'gray-matter';
 import Layout from '../components/Layout';
 import PostList from '../components/PostList';
 
-const Index = ({ posts, title, description, ...props }) => {
+const Index = ({ posts, title, description, menuItems, ...props }) => {
   return (
-    <Layout pageTitle={title}>
-      <h1 class="title">Kate Green</h1>
+    <Layout pageTitle={title} menuItems="menuItems">
+      <h1 class="title">{title}</h1>
       <p class="subtitle">
         {description}
       </p>
@@ -44,7 +44,8 @@ export async function getStaticProps() {
     props: {
       posts,
       title: config.default.title,
-      description: config.default.description
+      description: config.default.description,
+      menuItems: config.default.menuItems
     }
   }
 }

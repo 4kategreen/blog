@@ -1,4 +1,16 @@
 {
 	"title": "Kate Green",
-	"description": "Engaged and Quality Leadership"
+	"description": "Engaged and Quality Leadership",
+	"menuItems": [
+		{
+			"name": "About",
+			"href": "/about"
+		}, {
+			"name": "Categories",
+			"href": "/categories"
+		}, {
+			"name": "Archives",
+			"href": "/archives"
+		}
+	]
 }
