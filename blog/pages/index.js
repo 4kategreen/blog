@@ -33,6 +33,7 @@ export async function getStaticProps() {
       return {
         frontmatter: document.data,
         markdownBody: document.content,
+        shortMarkdownBody: document.content.split('<!-- more -->')[0],
         slug
       };
     });

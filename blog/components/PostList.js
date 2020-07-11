@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import ReactMarkdown from 'react-markdown';
 
 export default function PostList({ posts }) {
   if (posts === 'undefined') return null;
@@ -6,19 +7,25 @@ export default function PostList({ posts }) {
   return (
     <div>
       {!posts && <div>No posts!</div>}
-      <ul>
         {posts &&
           posts.map((post) => {
             return (
-              <li key={post.slug}>
-                <Link href={{ pathname: `/post/${post.slug}` }}>
-                  <a>{post.frontmatter.title}</a>
-                </Link>
-              </li>
+              <>
+                <h2 key={post.slug}>
+                  <Link href={{ pathname: `/post/${post.slug}` }}>
+                    <a>{post.frontmatter.title}</a>
+                  </Link>
+                </h2>
+                <div>
+                  <ReactMarkdown source={post.shortMarkdownBody} />
+                  <Link href={{ pathname: `/post/${post.slug}` }}>
+                    <a>more</a>
+                  </Link>
+                </div>
+              </>
             );
           })
         }
-      </ul>
     </div>
   )
 }
