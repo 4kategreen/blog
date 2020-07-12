@@ -30,16 +30,18 @@ export async function getStaticProps() {
       let slug = key.replace(/^.*[\\\/]/, '').slice(0, -3);
       const value = values[index];
       const document = matter(value.default);
+
       return {
-        frontmatter: document.data,
+        meta: document.data,
         markdownBody: document.content,
-        shortMarkdownBody: document.content.split('<!-- more -->')[0],
         slug
       };
     });
 
     return data;
   })(require.context('../posts', true, /\.md$/));
+
+  posts.sort((a,b) => parseInt(a.meta.date) + parseInt(b.meta.date));
 
   return {
     props: {

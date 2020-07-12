@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import ReactMarkdown from 'react-markdown';
 
+const shortenedPostSplit = '<!-- more -->';
+
 export default function PostList({ posts }) {
   if (posts === 'undefined') return null;
 
@@ -13,13 +15,14 @@ export default function PostList({ posts }) {
               <>
                 <h2 key={post.slug}>
                   <Link href={{ pathname: `/post/${post.slug}` }}>
-                    <a>{post.frontmatter.title}</a>
+                    <a>{post.meta.title}</a>
                   </Link>
                 </h2>
+                <h4>{post.meta.date}</h4>
                 <div>
-                  <ReactMarkdown source={post.shortMarkdownBody} />
+                  <ReactMarkdown source={post.markdownBody.split(shortenedPostSplit)[0]} />
                   <Link href={{ pathname: `/post/${post.slug}` }}>
-                    <a>more</a>
+                    <a>read more</a>
                   </Link>
                 </div>
               </>
