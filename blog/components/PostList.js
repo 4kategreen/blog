@@ -11,6 +11,9 @@ export default function PostList({ posts }) {
       {!posts && <div>No posts!</div>}
         {posts &&
           posts.map((post) => {
+            const d = post.meta.date.split('-');
+            const date = new Date(d[0], d[1], d[2]);
+
             return (
               <>
                 <h2 key={post.slug}>
@@ -18,9 +21,9 @@ export default function PostList({ posts }) {
                     <a>{post.meta.title}</a>
                   </Link>
                 </h2>
-                <h4>{post.meta.date}</h4>
+                <h4>{date.toLocaleDateString()}</h4>
                 <div>
-                  <ReactMarkdown source={post.markdownBody.split(shortenedPostSplit)[0]} />
+                  <ReactMarkdown source={post.body.split(shortenedPostSplit)[0]} />
                   <Link href={{ pathname: `/post/${post.slug}` }}>
                     <a>read more</a>
                   </Link>

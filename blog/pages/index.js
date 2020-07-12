@@ -33,7 +33,7 @@ export async function getStaticProps() {
 
       return {
         meta: document.data,
-        markdownBody: document.content,
+        body: document.content,
         slug
       };
     });
@@ -41,7 +41,7 @@ export async function getStaticProps() {
     return data;
   })(require.context('../posts', true, /\.md$/));
 
-  posts.sort((a,b) => parseInt(a.meta.date) + parseInt(b.meta.date));
+  posts.sort((a,b) => parseInt(a.meta.date) - parseInt(b.meta.date));
 
   return {
     props: {
