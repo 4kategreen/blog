@@ -46,9 +46,11 @@ export async function getStaticProps() {
       const document = matter(value.default);
 
       return {
-       title: document.data.title,
-       tags: document.data.tags,
-       slug
+        details: {
+          title: document.data.title,
+          slug
+        },
+        tags: document.data.tags
       }
     });
 
@@ -62,27 +64,37 @@ export async function getStaticProps() {
   }
 }
 
-export function categorize(posts) {
+function categorize(posts) {
   let tagList = [];
   for (let post of posts) {
-    const postDetails = {
-      title: post.title,
-      slug: post.slug
-    }
     for (let tag of post.tags) {
+      tag = toTitleCase(tag);
       const index = tagList.findIndex(element => element.name === tag);
 
       if (index === -1) {
         tagList.push({
           name: tag,
-          posts: [postDetails]
+          posts: [post.details]
         });
       } else {
-        tagList[index].posts.push(postDetails);
+        tagList[index].posts.push(post.details);
       }
     }
-    console.log(tagList)
   }
 
+  tagList.sort((a,b) => {
+    if (a.name.toUpperCase() < b.name.toUpperCase()) {
+      return -1;
+    } else {
+      return 1;
+    }
+  });
+
   return tagList;
+}
+
+function toTitleCase(str) {
+  return str.toLowerCase().split(' ').map(function(word) {
+    return word.replace(word[0], word[0].toUpperCase());
+  }).join(' ');
 }
