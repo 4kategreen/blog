@@ -41,7 +41,14 @@ export async function getStaticProps() {
     return data;
   })(require.context('../posts', true, /\.md$/));
 
-  posts.sort((a,b) => parseInt(a.meta.date) - parseInt(b.meta.date));
+  // sort desc
+  posts.sort((a,b) => {
+    if (a.meta.date < b.meta.date) {
+      return 1;
+    } else {
+      return -1;
+    }
+  });
 
   return {
     props: {
