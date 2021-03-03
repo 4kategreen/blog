@@ -18,15 +18,7 @@ First, I want to tell you what I'm looking for when I hire today. Our field is e
 I can teach you technical skills, I can teach you how to work with people, but only if you're interested in learning. When I'm hiring a more experienced person, I look for this along with experience, technical competence, and independence.
 
 ## What I Wish I Knew Back then
-Looking back, these are the thingsI would go back and tell myself.
-
-### Trust your instinct
-If something feels off to you, it probably is. Don't deny that gut feeling. Dig in more. I ignored warning signs about people, about jobs, about relationships, about situations far too often.
-
-On the other side, trust your approach to a problem. Be ready to take feedback and learn if it goes wrong, but trust you know how to solve the problems you were hired to do. Believe in yourself.
-
-### Ask questions about your work and then ask more
-If your job is to create an unambigious program to automate a process, you need to seek clarity. Understand the processses you're automating, understand how things can go wrong, and if it doesn't make sense, ask more questions. I think of myself as an "Ambiguity Destroyer."
+Looking back, these are the things. I would go back and tell myself.
 
 ### Ask for help
 This one is so hard, but remember none of us knows everything. I use question starters like these all the time:
@@ -36,6 +28,14 @@ This one is so hard, but remember none of us knows everything. I use question st
 * I want to learn more about what you meant when you said...
 
 I promise you two things. First, people love to talk about what they know and second, you won't look stupid when you ask questions. In fact, people will appreciate that you are curious and willing to ask. Also, _if you have a question, you can be sure others are thinking something similar_.
+
+### Trust your instinct
+If something feels off to you, it probably is. Don't deny that gut feeling. Dig in more. I ignored warning signs about people, about jobs, about relationships, about situations far too often.
+
+On the other side, trust your approach to a problem. Be ready to take feedback and learn if it goes wrong, but trust you know how to solve the problems you were hired to do. Believe in yourself.
+
+### Ask questions about your work and then ask more
+If your job is to create an unambigious program to automate a process, you need to seek clarity. Understand the processses you're automating, understand how things can go wrong, and if it doesn't make sense, ask more questions. I think of myself as an "Ambiguity Destroyer."
 
 ### Try to see the opportunity in every challenge
 This is hard. Sometimes, especially early in our careers, our work doesn't make sense or it's dull or it feels too easy. Honestly, I still get work like this all the time. I have three suggestions:
