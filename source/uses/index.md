@@ -13,8 +13,8 @@ date: 2021-09-17
 	* Sleep
 
 ## Apps
-* [Nike Training Club](https://www.nike.com/ntc-app)
-* [Find What Feels Good](https://yogawithadriene.com/)
+* For workouts, [Nike Training Club](https://www.nike.com/ntc-app)
+* For yoga, [Find What Feels Good](https://yogawithadriene.com/)
 * Meditation. I use Deepak Chopra's [app](https://www.chopra.com/app)
 * [Things](https://culturedcode.com/things/three/) to organize my todos
 * [Working Copy](https://workingcopy.app) for git and text editing on my iPad
