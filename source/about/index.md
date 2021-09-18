@@ -53,9 +53,9 @@ I'm currently leading a product engineering team at Till, where we're working to
 {% img /images/celebrate.jpg 200 "Happy Reba" %}
 No matter what it is, I want to compete. Competing makes me better. There's always been something. Baseball, softball, music, hockey, puzzles, running, dog agility.
 
-Here's my dog, Reba, and I celebrating after we ran an agility course. She's an agility trial champion, a lifetime achievement for us as a team. 
+Here's my dog, Reba, and I celebrating after we ran an agility course. She's an agility trial champion, a lifetime achievement for us as a team. I also have a young dog, Dash, who's about ready to start taking over the world. He's so fast and fun.
 
 ### About this Blog
 I use the blogging platform [Hexo](http://hexo.io/) with the theme [Minos](http://github.com/ppoffice/hexo-theme-minos). I've modified the theme a little here and there, but it's mostly intact. It's one of the most well-supported themes with good documentation. #quality!
 
-For my posts, as with any longer form typing I do, I use Markdown in Sublime Text 3. Here's the [source code](https://github.com/4kategreen/blog).
+For my posts, as with any longer form typing I do, I use Markdown in Sublime Text 3 or the iPad app Working Copy. Here's the [source code](https://github.com/4kategreen/blog).

@@ -21,6 +21,7 @@ article:
 # Navigation bar menu links.
 menu:
   About: /about
+  Uses: /uses
   Categories: /tags
   Archives: /archives
 
