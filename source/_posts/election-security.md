@@ -13,6 +13,8 @@ There has been much talk about voter and election fraud as the president seeks t
 
 The purpose of this post is to explore how election fraud by stealing ballots could be perpetuated, thus showing why it's so rare. I will also talk about more effective methods of election fraud, many of which are already happening.
 
+<!-- more -->
+
 ## Who Am I to Talk About This?
 I am an election judge in Maryland. My job is to oversee a precinct. In 2018, I was responsible for about 1000 votes cast. We are judged on our accuracy to detailed procedures for Election Day and our adherence to the chains of custody that ensure ballot integrity. 
 
