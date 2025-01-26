@@ -6,7 +6,7 @@ tags:
 - fun
 ---
 
-I'm so proud to introduce [mazemonster.com](www.mazemonster.com). What started as my son's maze obsession turned into a fun [side project](www.github.com/4kategreen/mazes) for me that became something everyone can enjoy. Let me tell you the story. 
+I'm so proud to introduce [mazemonster.com](https://www.mazemonster.com). What started as my son's maze obsession turned into a fun [side project](https://www.github.com/4kategreen/mazes) for me that became something everyone can enjoy. Let me tell you the story. 
 
 <!-- more -->
 
