@@ -73,7 +73,7 @@ const getCellLinks = (cell:Cell, walls: Walls): number => {
 
 Finally, I got the whole thing working, ASCII-style and needed to decide how to render it. I considered generating a PNG (which was the original idea for the Ruby code), keeping the ASCII to be old school, or learning about the `canvas` element. I opted to use `canvas` since that's what it was made for and I've never gotten the chance to play with it before. 
 
-After that all worked, it was really about making it useful for others. (Bulma)[https://bulma.io/] for straightforward CSS and layout with built in responsiveness. And building out a way to easily print your mazes to hand them off to whoever you need to delight (and/or distract).
+After that all worked, it was really about making it useful for others. [Bulma](https://bulma.io/) for straightforward CSS and layout with built in responsiveness. And building out a way to easily print your mazes to hand them off to whoever you need to delight (and/or distract).
 
 {% img /images/mazes/mockup.jpg 400 "An early version of Maze Monster" %}
 
